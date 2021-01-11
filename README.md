@@ -1,9 +1,10 @@
-### Hi there 👋
+###  Hi there 👋 
+[![Header](https://media.giphy.com/media/UtzyBJ9trryNO4R3Ee/source.gif "Header")](https://https://github.com/alisilva1)
 
-<!--
-**alisilva1/alisilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alisilva1)](https://github.com/alisilva1/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
