@@ -5,7 +5,8 @@
 ### Talking about Personal Stuffs:
 - 🔭 I´m currently working on Mobileum as a Consultant on RAID system.
 - 📫 I´m currently learning Java
-- 💬 How to reach me on Linkedin
+- 💬 How to reach me on [Linkedin](https://www.linkedin.com/in/alisson-medeiros-337450119/)
+
 
 ### Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alisilva1&theme=dracula)](https://github.com/alisilva1)
