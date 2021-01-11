@@ -9,5 +9,5 @@
 
 
 ### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alisilva1&theme=dracula)](https://github.com/alisilva1)
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=alisilva1&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisilva1&theme=dracula" />
