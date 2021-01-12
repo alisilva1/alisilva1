@@ -9,5 +9,5 @@
 
 
 ### Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=alisilva1&theme=dracula" width="625px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=alisilva1&theme=dracula" width="525px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisilva1&theme=dracula"/>
