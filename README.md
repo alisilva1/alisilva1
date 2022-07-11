@@ -4,8 +4,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 📫 I´m currently learning Java
-- 💬 How to reach me on [Linkedin](https://www.linkedin.com/in/alisson-medeiros-337450119/)
+- 📫 I´m currently learning NodeJs
 
 
 ### Github Stats
