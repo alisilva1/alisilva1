@@ -4,7 +4,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 📫 I´m currently working in Objective Solutions as Backend Developer using Java.
+- 📫 I´m currently working in Objective Solutions as Backend Developer using Java or NodeJs.
 - 📫 I´m working with Amazonia Cripto as a Cloud Developer using Nodejs for AWS and helping solutions with Polygon Network.
 
 
